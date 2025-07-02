@@ -2,6 +2,7 @@
     --header-bg-blue: #06579E;;
 }
 
-header {
+header,
+footer {
     background-color: var(--header-bg-blue);
 }
